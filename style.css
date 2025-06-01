@@ -13,3 +13,20 @@ a {
   color: #1b4f72;
   text-decoration: none;
 }
+
+.logo-banner {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 20px;
+}
+
+.logo-banner img {
+  width: 60px;
+  height: auto;
+}
+
+.logo-banner h1 {
+  margin: 0;
+  font-size: 1.8rem;
+}
